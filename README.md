@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=007ACC&height=250&section=header&text=Adam%20Tadros&fontSize=70&fontAlignY=35&desc=Cyber%20Security%20Student%20%7C%20Homelab%20Tinkerer%20%7C%20AI-Assisted%20Developer&descAlignY=55&descSize=20&fontColor=ffffff" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=164C9E&height=250&section=header&text=Adam%20Tadros&fontSize=70&fontAlignY=35&desc=Cyber%20Security%20Student%20%7C%20Homelab%20Tinkerer%20%7C%20AI-Assisted%20Developer&descAlignY=55&descSize=20&fontColor=ffffff" width="100%" />
 </div>
 
 <div align="center">
@@ -59,16 +59,11 @@ I consider myself an intermediate developer who believes in working smart. I act
     <td width="50%" valign="top">
       <h4 align="center">☕ Longo Coffee Website</h4>
       <a href="https://github.com/AdamDDR/Longo-Coffee-Website">
-        <img src="https://via.placeholder.com/600x300/0D1117/007ACC?text=Longo+Coffee+Screenshot" alt="Longo Coffee Screenshot" width="100%"/>
+        <img src="images/Longo-Client%20Homepage.png" alt="Longo Coffee Screenshot" width="100%"/>
       </a>
       <p align="center"><i>A modern, responsive e-commerce web project built for a seamless user experience. I leveraged AI tools to accelerate the UI styling, components, and layout architecture.</i></p>
     </td>
     <td width="50%" valign="top">
-      <h4 align="center">Project Name 2 (e.g., Smart Dashboard)</h4>
-      <a href="LINK_TO_YOUR_REPO_2_HERE">
-        <img src="https://via.placeholder.com/600x300/0D1117/007ACC?text=Your+Screenshot+Here" alt="Project 2 Screenshot" width="100%"/>
-      </a>
-      <p align="center"><i>A brief 1-2 sentence description of what you built, what AI tools you used to accelerate it, and what problem it solves.</i></p>
     </td>
   </tr>
 </table>
