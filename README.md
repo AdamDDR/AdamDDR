@@ -2,6 +2,18 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=007ACC&height=250&section=header&text=Adam%20Tadros&fontSize=70&fontAlignY=35&desc=Cyber%20Security%20Student%20%7C%20Homelab%20Tinkerer%20%7C%20AI-Assisted%20Developer&descAlignY=55&descSize=20&fontColor=ffffff" width="100%" />
 </div>
 
+<div align="center">
+  <a href="https://www.linkedin.com/in/adam-nabil-346b0330b/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="YOUR_YOUTUBE_LINK_HERE">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+  <a href="mailto:YOUR_EMAIL_HERE">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
+
 ---
 
 ### 🎓 The Professional: Cyber Security & Networks
