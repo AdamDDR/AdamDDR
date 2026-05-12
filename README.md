@@ -6,10 +6,7 @@
   <a href="https://www.linkedin.com/in/adam-nabil-346b0330b/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="YOUR_YOUTUBE_LINK_HERE">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
-  <a href="mailto:YOUR_EMAIL_HERE">
+  <a href="mailto:adamraminabil@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
@@ -60,14 +57,14 @@ I consider myself an intermediate developer who believes in working smart. I act
 <table align="center">
   <tr>
     <td width="50%" valign="top">
-      <h4 align="center">Project Name 1 (e.g., Custom Smart Dashboard)</h4>
-      <a href="LINK_TO_YOUR_REPO_1_HERE">
-        <img src="https://via.placeholder.com/600x300/0D1117/007ACC?text=Your+Screenshot+Here" alt="Project 1 Screenshot" width="100%"/>
+      <h4 align="center">☕ Longo Coffee Website</h4>
+      <a href="https://github.com/AdamDDR/Longo-Coffee-Website">
+        <img src="https://via.placeholder.com/600x300/0D1117/007ACC?text=Longo+Coffee+Screenshot" alt="Longo Coffee Screenshot" width="100%"/>
       </a>
-      <p align="center"><i>A brief 1-2 sentence description of what you built, what AI tools you used to accelerate it, and what problem it solves.</i></p>
+      <p align="center"><i>A modern, responsive e-commerce web project built for a seamless user experience. I leveraged AI tools to accelerate the UI styling, components, and layout architecture.</i></p>
     </td>
     <td width="50%" valign="top">
-      <h4 align="center">Project Name 2 (e.g., Vue.js Web App)</h4>
+      <h4 align="center">Project Name 2 (e.g., Smart Dashboard)</h4>
       <a href="LINK_TO_YOUR_REPO_2_HERE">
         <img src="https://via.placeholder.com/600x300/0D1117/007ACC?text=Your+Screenshot+Here" alt="Project 2 Screenshot" width="100%"/>
       </a>
